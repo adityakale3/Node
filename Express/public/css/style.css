@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+table tr td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+h1 img{
+    text-align: center;
+}
+
+img {
+    width:20%
+}
+
+td th tr {
+    border: 1px salmon;
+}
